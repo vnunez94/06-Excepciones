@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\bin\Debug\net6.0\Excep03.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\bin\Debug\net6.0\Excep03.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\bin\Debug\net6.0\Excep03.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\bin\Debug\net6.0\Excep03.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\bin\Debug\net6.0\Excep03.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\Excep03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\Excep03.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\Excep03.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\Excep03.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\Excep03.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\refint\Excep03.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\Excep03.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\Excep03.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Excepciones\Excep03\obj\Debug\net6.0\ref\Excep03.dll
